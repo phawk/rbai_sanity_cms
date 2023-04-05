@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'white-frog',
+  title: 'RBAI Foundation',
 
   projectId: 'po5iqng4',
   dataset: 'production',

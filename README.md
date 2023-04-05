@@ -8,8 +8,16 @@ Now you can do the following things:
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
 
+## Developing
+
+```
+npm run dev -- --port 3009
+```
+
 ## Deploying changes
 
 ```
 npm run deploy && npm run deploy-graphql
 ```
+
+Studio is found at https://rbaifoundation.sanity.studio

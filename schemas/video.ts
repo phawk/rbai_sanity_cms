@@ -26,7 +26,7 @@ export default {
     {
       name: "videoUrl",
       title: "Wistia Video ID",
-      type: "url",
+      type: "string",
     },
   ]
 }
